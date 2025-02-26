@@ -1,2 +1,2 @@
 # Handwritten-Digit-Classification
-Classifying Handwritten Digits Using a RBF Network
+Supervised Learning and Handwritten Digit Recognition Using a RBF Network
