@@ -13,7 +13,7 @@ This repository contains a Jupyter Notebook that will train a RBF network on a r
     - Each image (data sample) contains one of 10 numeric digit $0, 1, 2, \ldots, 8, 9$
  
 - **RBF network implementation** without using an outside library
-- **90+% Prediction Accuracy** achieved on a separate test set
+- **90+% Prediction Accuracy** achieved on test set
 
 ## Table of Contents
 
