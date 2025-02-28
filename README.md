@@ -94,6 +94,8 @@ your-repo-name/
 
 
 
+### Results:
+<img width="780" alt="Screenshot 2025-02-26 at 4 52 53 PM" src="https://github.com/user-attachments/assets/a9a932bd-5444-4827-b191-2b0f2d1a4663" />
 
 
 ## Created by Henry Landay <a name="attribution"></a>
