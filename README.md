@@ -21,6 +21,7 @@ This repository contains a Jupyter Notebook that will train a RBF network on a r
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Results](#results)
 - [Attribution](#attribution)
 
 ## Getting Started
@@ -91,7 +92,6 @@ your-repo-name/
 - **rbf_net.py**: Implements the RBF (Radial Basis Function) network.
 - **README.md**: Project documentation file (this file).
 - **requirements.txt**: A list of Python dependencies needed to run the project.
-
 
 
 ### Results:
